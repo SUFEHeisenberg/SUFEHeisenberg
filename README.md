@@ -2,7 +2,9 @@
 
 Welcome to my Github!
 
-I am the PhD Candidate🎓 at AI Lab, [Shanghai University of Finance and Economics💰](https://www.sufe.edu.cn/), advised by [Professor Hailiang Huang](https://sime.sufe.edu.cn/5b/79/c10574a154489/page.htm), and currently a visiting scholar at [Tippie College of Business, UIowa🦅](https://tippie.uiowa.edu/), advised by [Professor Weiguo Patrick Fan](https://tippie.uiowa.edu/people/weiguo-fan). My research area mainly focus on Deep Learning, Natural Language Processing, Quantitative Investment and Design Science, aiming to utilize AI to tackle practical problems.
+I am the PhD Candidate🎓 at AI Lab, [Shanghai University of Finance and Economics💰](https://www.sufe.edu.cn/), advised by [Professor Hailiang Huang](https://sime.sufe.edu.cn/5b/79/c10574a154489/page.htm).
+<!-- and currently a visiting scholar at [Tippie College of Business, UIowa🦅](https://tippie.uiowa.edu/), advised by [Professor Weiguo Patrick Fan](https://tippie.uiowa.edu/people/weiguo-fan).  -->
+My research area mainly focus on Deep Learning, Natural Language Processing, Quantitative Investment and Design Science, aiming to utilize AI to tackle practical problems.
 
 To Know Me Better:
 
